@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2136
     wikipedia: http://en.wikipedia.org/wiki/Jacob_Abbott
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28776#StuyvesantA-Franconia-Story
 gutenberg_issued: '2009-05-12'
 gutenberg_type: Text
 identifiers:
